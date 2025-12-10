@@ -1,0 +1,5 @@
+{
+  "name": "GeminiCalc",
+  "description": "A modern, aesthetic calculator powered by React and Tailwind CSS, featuring a standard arithmetic engine and an advanced AI math assistant using the Gemini API.",
+  "requestFramePermissions": []
+}
